@@ -41,7 +41,6 @@ st.title("Prediksi Kematangan Buah Naga - 1795")
 
 uploaded_files = st.file_uploader("Unggah Gambar (Beberapa diperbolehkan)", type=["jpg", "png", "jpeg"], accept_multiple_files=True)
 
-# Sidebar for prediction button and results
 if st.sidebar.button("Prediksi"):
     if uploaded_files:
         st.sidebar.write("## Hasil Prediksi")
