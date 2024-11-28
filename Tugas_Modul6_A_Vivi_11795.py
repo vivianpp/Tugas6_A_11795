@@ -136,7 +136,7 @@ except FileNotFoundError:
 
 title_html = """
 <div style="text-align: center; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); font-size: 50px; font-weight: bold;">
-    🎄 Prediksi Kematangan Buah Naga - 1710 🎅
+    🎄 Prediksi Kematangan Buah Naga - 1795 🎅
 </div>
 """
 st.markdown(title_html, unsafe_allow_html=True)
