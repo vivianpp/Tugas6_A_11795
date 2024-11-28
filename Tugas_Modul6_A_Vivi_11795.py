@@ -199,7 +199,7 @@ if uploaded_files:
         
 copyright_html = """
 <div style="text-align: center; margin-top: 5px; font-size: 14px; color: #FFF; opacity: 0.8;">
-    © 2024 Nathaniel Ignacio W. All Rights Reserved.
+    © 2024 Vivian Purnomo. All Rights Reserved.
 </div>
 """
 st.markdown(copyright_html, unsafe_allow_html=True)
